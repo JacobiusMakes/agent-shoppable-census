@@ -1,0 +1,101 @@
+rank_source,seller,domain,notes
+NJ-SS;NJ-T50;SEMRUSH;SIMILARWEB;DC360,Kay Jewelers (Signet),kay.com,Signet Jewelers brand. Signet is #1 on National Jeweler Supersellers 2026 and named by Digital Commerce 360 as the largest online jewelry retailer.
+NJ-SS;NJ-T50;SEMRUSH,Zales (Signet),zales.com,Signet Jewelers brand.
+NJ-SS;NJ-T50;DPRO;REVIEWED,Jared (Signet),jared.com,Signet Jewelers brand.
+NJ-SS;DPRO;REVIEWED;POMPEII3;BRIEF,Blue Nile (Signet),bluenile.com,Signet Jewelers brand since 2022.
+NJ-SS;DPRO;REVIEWED;BRIEF,James Allen (Signet),jamesallen.com,Signet Jewelers brand since 2017. Kept as its own row; the probe records where the domain resolves (on 2026-09-02 and 2026-09-03 our fetches were forwarded either to bluenile.com with a jaRedirect parameter or to a bot-check host).
+NJ-SS;DPRO;BRIEF,Diamonds Direct (Signet),diamondsdirect.com,Signet Jewelers brand since 2021.
+NJ-SS;NJ-T50;SIMILARWEB;DPRO;POMPEII3;BRIEF,Brilliant Earth,brilliantearth.com,National Jeweler Supersellers #20 (USD 422M) and Top 50 #26.
+NJ-SS;NJ-T50;DPRO;BRIEF,Helzberg Diamonds,helzberg.com,National Jeweler Supersellers #16 and Top 50 #6.
+NJ-SS;NJ-T50,Ben Bridge Jeweler,benbridge.com,National Jeweler Supersellers #19 and Top 50 #27.
+NJ-SS;NJ-T50,Reeds Jewelers,reeds.com,National Jeweler Supersellers #21 and Top 50 #19.
+NJ-SS;NJ-T50;REVIEWED;BRIEF,Mejuri,mejuri.com,National Jeweler Supersellers #25 and Top 50 #23. Sells engagement rings in its fine line.
+NJ-SS;NJ-T50,Diamonds International (Almod Diamonds),diamondsinternational.com,Almod Diamonds Ltd. is National Jeweler Supersellers #22 and Top 50 #18; consumer site is diamondsinternational.com.
+NJ-SS;NJ-T50,Fred Meyer Jewelers,fredmeyerjewelers.com,National Jeweler Supersellers #29 and Top 50 #9.
+NJ-SS;NJ-T50,Daniel's Jewelers (Sherwood Management),danielsjewelers.com,Sherwood Management Co. is National Jeweler Supersellers #30 and Top 50 #12.
+NJ-SS;NJ-T50,Don Roberto Jewelers,donrobertojewelers.com,National Jeweler Supersellers #28 and Top 50 #12. Consumer site is donrobertojewelers.com; the shorter donroberto.com is an unrelated domain that forwards to a coffee seller (checked 2026-09-03).
+NJ-SS;NJ-T50,Rogers & Hollands (Rogers Enterprises),rogersandhollands.com,Rogers Enterprises Inc. is National Jeweler Supersellers #35 and Top 50 #16.
+NJ-SS;BRIEF,Tiffany & Co. (LVMH),tiffany.com,LVMH is National Jeweler Supersellers #6; Tiffany is its US bridal-facing house.
+NJ-SS;BRIEF,Cartier (Richemont),cartier.com,Richemont is National Jeweler Supersellers #2.
+NJ-SS,Van Cleef & Arpels (Richemont),vancleefarpels.com,Richemont house with US e-commerce and engagement rings.
+NJ-SS,Bulgari (LVMH),bulgari.com,LVMH house with US e-commerce and engagement rings.
+NJ-T50;BRIEF,Harry Winston (Swatch Group),harrywinston.com,Swatch Group is National Jeweler Top 50 #5.
+NJ-SS,Boucheron (Kering),boucheron.com,Kering Americas is National Jeweler Supersellers #27.
+NJ-T50;BRIEF,David Yurman,davidyurman.com,National Jeweler Top 50 #22. Sells engagement rings.
+NJ-SS,Mayors (Watches of Switzerland Group),mayors.com,Watches of Switzerland Group is National Jeweler Supersellers #10; Mayors is its US jewelry banner.
+NJ-SS,JTV (Multimedia Commerce Group),jtv.com,Multimedia Commerce Group Inc. is National Jeweler Supersellers #12 (USD 711M); JTV (Jewelry Television) is its jewelry-only television and online retailer and sells diamond and engagement rings online. Included as a jewelry-only seller; general merchandisers and shopping networks that are not jewelry-only stay excluded.
+NJ-SS;BRIEF,Ross-Simons (Nonantum Capital Partners),ross-simons.com,National Jeweler lists Nonantum Capital Partners at Supersellers #9 (USD 1.00B); Nonantum has owned Ross-Simons since December 2020 and Ross-Simons is its direct-to-consumer jewelry retailer (catalog and online; Rhode Island).
+NJ-T50;DPRO;BRIEF,Shane Co.,shaneco.com,National Jeweler Top 50 #31.
+NJ-T50;BRIEF,Robbins Brothers,robbinsbrothers.com,National Jeweler Top 50 #38.
+NJ-T50,Riddle's Jewelry,riddlesjewelry.com,National Jeweler Top 50 #17.
+NJ-T50,Hannoush Jewelers,hannoush.com,National Jeweler Top 50 #24.
+NJ-T50,Morgan Jewelers (Morgan Management),morganjewelers.com,National Jeweler Top 50 #34.
+NJ-T50,Jensen Jewelers,jensenjewelers.com,National Jeweler Top 50 #36.
+NJ-T50,Harry Ritchie's Jewelers,harryritchies.com,National Jeweler Top 50 #36.
+NJ-T50,Saslow's Jewelers (S. Saslow Inc.),saslows.com,National Jeweler Top 50 #40.
+NJ-T50,Fink's Jewelers,finks.com,National Jeweler Top 50 #44.
+NJ-T50,The Jewelry Exchange (Goldenwest Diamond Corp.),jewelryexchange.com,National Jeweler Top 50 #44.
+NJ-T50,International Diamond Center,shopidc.com,National Jeweler Top 50 #46.
+NJ-T50,Michaels Jewelers (The Michaels Group),michaelsjewelers.com,National Jeweler Top 50 #46.
+NJ-T50,DeVons Jewelers,devonsjewelers.com,National Jeweler Top 50 #49.
+NJ-T50,Lee Michaels Fine Jewelry,lmfj.com,National Jeweler Top 50 #50.
+NJ-T50,Schiffman's Jewelers (The Schiffman Group),schiffmans.com,National Jeweler Top 50 #50.
+BRIEF;POMPEII3,Ritani,ritani.com,Online-native engagement ring seller.
+BRIEF;POMPEII3,VRAI (Diamond Foundry),vrai.com,Lab-grown DTC brand.
+BRIEF;POMPEII3,Clean Origin,cleanorigin.com,Lab-grown DTC brand.
+BRIEF;POMPEII3,With Clarity,withclarity.com,Online-native engagement ring seller with a NYC showroom.
+BRIEF,Grown Brilliance,grownbrilliance.com,Lab-grown DTC brand.
+BRIEF,Ada Diamonds,adadiamonds.com,Lab-grown DTC brand.
+BRIEF;REVIEWED,Rare Carat,rarecarat.com,Diamond search marketplace that also completes sales; included at the brief's request and flagged as an aggregator.
+BRIEF;POMPEII3,Whiteflash,whiteflash.com,Online-native diamond seller (Houston).
+BRIEF,Adiamor,adiamor.com,Online-native engagement ring seller (Los Angeles).
+BRIEF,Allurez,allurez.com,Online-native jewelry seller (NYC).
+BRIEF;DPRO;POMPEII3,Angara,angara.com,Online-native gemstone and diamond jewelry seller (Los Angeles).
+BRIEF;REVIEWED,Catbird,catbirdnyc.com,Brooklyn jeweler with online engagement ring line.
+DPRO,Brian Gavin Diamonds,briangavindiamonds.com,Online-native diamond seller (Houston).
+DPRO,Abe Mor,abemor.com,NYC diamond seller with online sales.
+DPRO,Leibish & Co.,leibish.com,Colored diamond specialist; HQ Israel with a New York office; sells to US online.
+POMPEII3,Pompeii3,pompeii3.com,Listed on its own published ranking; included as a US online seller.
+REVIEWED,The Clear Cut,theclearcut.co,NYC online-native engagement ring seller.
+REVIEWED,Melanie Casey,melaniecasey.com,Massachusetts jeweler with online engagement ring line.
+REVIEWED,Stag & Finch,stagandfinch.com,Online engagement ring seller.
+REVIEWED,Olive Ave Jewelry,oliveavejewelry.com,Utah jeweler with online engagement ring line.
+REVIEWED,Jewelry by Johan,jewelrybyjohan.com,Minnesota jeweler with online engagement ring line.
+KNOWN,Keyzar Jewelry,keyzarjewelry.com,Online-native engagement ring seller (NYC).
+KNOWN,Frank Darling,frankdarling.com,Online-native engagement ring seller (NYC).
+KNOWN,Jean Dousset,jeandousset.com,Los Angeles engagement ring designer with online sales.
+KNOWN,Gabriel & Co.,gabrielny.com,Bridal manufacturer that also sells direct online.
+KNOWN,Tacori,tacori.com,Bridal manufacturer that also sells direct online.
+KNOWN,Verragio,verragio.com,Bridal manufacturer that also sells direct online.
+KNOWN;DPRO,Hearts On Fire,heartsonfire.com,Diamond brand that sells direct online.
+KNOWN,Kwiat,kwiat.com,NYC diamond house with online sales.
+KNOWN,Ring Concierge,ringconcierge.com,NYC online-native engagement ring seller.
+KNOWN,Anna Sheffield,annasheffield.com,NYC designer with online engagement ring line.
+KNOWN,AUrate New York,auratenewyork.com,NYC DTC fine jewelry brand with engagement rings.
+KNOWN,Noemie,noemie.com,DTC fine jewelry brand with engagement rings.
+KNOWN,Brilliance,brilliance.com,Online-native diamond seller (Florida).
+KNOWN,Kobelli,kobelli.com,Los Angeles online jewelry seller.
+KNOWN,SuperJeweler,superjeweler.com,Online jewelry seller.
+KNOWN,Szul,szul.com,Online jewelry seller.
+KNOWN,MiaDonna,miadonna.com,Lab-grown DTC brand (Portland).
+KNOWN,Do Amore,doamore.com,Online-native engagement ring seller (Houston).
+KNOWN,Bario Neal,barioneal.com,Philadelphia designer with online engagement ring line.
+KNOWN,Marrow Fine,marrowfine.com,San Diego designer with online engagement ring line.
+KNOWN,Ken & Dana Design,kenanddanadesign.com,NYC designer with online engagement ring line.
+KNOWN,EraGem,eragem.com,Online estate and vintage engagement ring seller.
+KNOWN,Lang Antique & Estate Jewelry,langantiques.com,San Francisco online estate engagement ring seller.
+KNOWN,Borsheims,borsheims.com,Omaha jeweler (Berkshire Hathaway) with online sales.
+KNOWN,Tapper's,tappers.com,Michigan jeweler with online sales.
+KNOWN,Day's Jewelers,daysjewelers.com,New England jeweler with online sales.
+KNOWN,Long's Jewelers,longsjewelers.com,Boston-area jeweler with online sales.
+KNOWN,Mervis Diamond Importers,mervisdiamond.com,Washington DC-area jeweler with online sales.
+KNOWN,Steven Singer Jewelers,stevensingerjewelers.com,Philadelphia jeweler with online sales.
+KNOWN,London Jewelers,londonjewelers.com,Long Island jeweler with online sales.
+KNOWN,Greenwich St. Jewelers,greenwichjewelers.com,NYC jeweler with online engagement ring line.
+KNOWN,Lumera Diamonds,lumeradiamonds.com,Online-native diamond seller.
+KNOWN,Graff,graff.com,Luxury house with US e-commerce and engagement rings.
+KNOWN,Chopard,chopard.com,Luxury house with US e-commerce and engagement rings.
+KNOWN,De Beers Jewellers,debeers.com,Luxury house with US e-commerce and engagement rings (natural diamonds).
+KNOWN,Lauren B,laurenb.com,NYC engagement ring jeweler with online sales.
+KNOWN,Bernie Robbins Jewelers,bernierobbins.com,Philadelphia-area jeweler with online sales.
+PUBLISHER,Stienhardt,stienhardt.com,Publisher of this census. NYC lab-grown diamond and engagement ring seller.

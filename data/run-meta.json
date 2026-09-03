@@ -1,0 +1,17 @@
+{
+  "started_utc": "2026-09-03T14:53:06.509914+00:00",
+  "finished_utc": "2026-09-03T15:13:20.996712+00:00",
+  "reprobes": [],
+  "domains": 100,
+  "counts": {
+    "A": 18,
+    "B": 52,
+    "unreachable": 30
+  },
+  "registry_servers": 40100,
+  "chatgpt_apps_index_loaded": true,
+  "probe_version": "0.2",
+  "user_agent": "StienhardtAgentCensus/0.2 (read-only agent-readiness census; +https://stienhardt.com/agents.md)",
+  "per_host_interval_s": 1.0,
+  "timeout_s": 15
+}
