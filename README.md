@@ -20,6 +20,8 @@ rubric as everyone else's.
 * Probe script: [probe.py](probe.py)
 * Results renderer: [make_results.py](make_results.py) (writes RESULTS-DRAFT.md from the run outputs)
 * Run metadata: [data/run-meta.json](data/run-meta.json) (UTC start and finish, counts, probe version, User-Agent)
+* Fixed September snapshot: [v0.2 release](https://github.com/JacobiusMakes/agent-shoppable-census/releases/tag/v0.2)
+* Queryable summary tables: [Hugging Face dataset](https://huggingface.co/datasets/JacobiusMakes/agent-shoppable-census)
 
 ## The rubric
 
