@@ -17,6 +17,7 @@ change as sellers ship things; rerun `python probe.py` and
 * Started (UTC): 2026-09-03T14:53:06.509914+00:00
 * Finished (UTC): 2026-09-03T15:13:20.996712+00:00
 * Domains probed: 100
+* Re-probed after the run, at 2026-09-04T17:35:26.070508+00:00 (UTC): stienhardt.com (each row's own `probed_at` is in the evidence file)
 * MCP Registry servers scanned: 40100
 * Probe version: 0.2
 * ChatGPT Apps index loaded: yes
@@ -54,8 +55,8 @@ Sites that refused the fetcher in any bucket (including Tier A or B rows reached
 | ACP /checkout_sessions endpoint | 0 |
 | Listed in the community ChatGPT Apps index (of 100 checked) | 0 |
 | Product page sampled successfully (HTTP 200) | 71 |
-| Sampled product page has Product JSON-LD | 55 |
-| Sampled product page has Product JSON-LD with GTIN or MPN | 22 |
+| Sampled product page has Product JSON-LD | 56 |
+| Sampled product page has Product JSON-LD with GTIN or MPN | 23 |
 | of the pages with JSON-LD, blocks that parsed only after repairing a trailing comma or control character | 3 |
 | Sampled product page has a Product JSON-LD block that does not parse even after repair (not counted as present) | 1 |
 | robots.txt fully disallows at least one named AI crawler | 8 |
@@ -81,7 +82,7 @@ Sites that refused the fetcher in any bucket (including Tier A or B rows reached
 | Lang Antique & Estate Jewelry | langantiques.com | llms.txt | Product JSON-LD |
 | Borsheims | borsheims.com | llms.txt | Product JSON-LD |
 | London Jewelers | londonjewelers.com | llms.txt |  |
-| Stienhardt (publisher of this census) | stienhardt.com | MCP Registry entry (io.github.JacobiusMakes/diamond-mcp,io.github.JacobiusMakes/stienhardt-store); agents.md; llms.txt; registered remote endpoint answered tools/list | Shopify-hosted UCP profile; Shopify UCP MCP endpoint answers tools/list |
+| Stienhardt (publisher of this census) | stienhardt.com | MCP Registry entry (io.github.JacobiusMakes/diamond-mcp,io.github.JacobiusMakes/stienhardt-store); agents.md; llms.txt; registered remote endpoint answered tools/list | Shopify-hosted UCP profile; Shopify UCP MCP endpoint answers tools/list; Product JSON-LD |
 
 ### Tier A, one line each
 
@@ -299,7 +300,7 @@ Sites that refused the fetcher in any bucket (including Tier A or B rows reached
 | 97 | De Beers Jewellers | debeers.com | B | salesforce-commerce-cloud |  |  |  |  |  |  |  |  | yes |  |  |
 | 98 | Lauren B | laurenb.com (domain forwards to laurenbjewelry.com) | unreachable |  |  |  | blocked |  |  |  |  |  |  |  |  |
 | 99 | Bernie Robbins Jewelers | bernierobbins.com | unreachable |  |  |  |  |  |  |  |  |  |  |  |  |
-| 100 | Stienhardt | stienhardt.com | A | shopify | yes | Shopify-hosted (MCP live) | real | real | yes |  |  |  |  |  |  |
+| 100 | Stienhardt | stienhardt.com | A | shopify | yes | Shopify-hosted (MCP live) | real | real | yes |  |  |  | yes | yes |  |
 
 Column notes: "Shopify checkout" is set only when the storefront shows Shopify theme or header signals. "UCP" says who hosts the /.well-known/ucp profile. agents.md and llms.txt show "real" for merchant content, "real:template" for a shared template, "blocked" when the site refused the fetch, and blank when absent or a soft 404. "Product JSON-LD" and "GTIN/MPN" refer to the one sampled product page (URL in data/probe-summary.csv). "MCP Registry" is a match in the official registry; whether the matched entry's remote endpoint answered a read-only tools/list is in the Tier A table and in the registry_remote_live column of the CSV.
 

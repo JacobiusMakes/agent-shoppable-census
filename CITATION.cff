@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use the Agent-Shoppable Census, please cite it as below."
+title: "Agent-Shoppable Census: agent readiness among 100 US online jewelry sellers"
+abstract: >-
+  A reproducible census of 100 US online sellers of engagement rings and diamond
+  jewelry. The dataset distinguishes merchant-built agent infrastructure from
+  platform-inherited features and publishes the domain list, summary table, raw
+  HTTP evidence, run metadata, methodology, and probe code.
+type: dataset
+authors:
+  - name: "Stienhardt & Stones"
+    website: "https://stienhardt.com/?utm_source=github&utm_medium=citation_metadata&utm_campaign=agent_shoppable_census"
+    city: "New York"
+    country: "US"
+version: "0.2"
+date-released: "2026-09-03"
+license: CC-BY-4.0
+url: "https://github.com/JacobiusMakes/agent-shoppable-census"
+repository-code: "https://github.com/JacobiusMakes/agent-shoppable-census"
+keywords:
+  - "agentic commerce"
+  - "AI shopping"
+  - "jewelry ecommerce"
+  - "MCP"
+  - "Universal Commerce Protocol"
+  - "structured data"
+  - "web census"

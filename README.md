@@ -7,8 +7,9 @@ rings and diamond jewelry, probing each domain for agent-readiness and sorting
 the result into two tiers so that Shopify's default-on features do not inflate
 the count.
 
-Published by Stienhardt (stienhardt.com), a New York City lab-grown diamond and
-engagement ring seller. Stienhardt is one of the 100 rows and is flagged as the
+Published by [Stienhardt & Stones](https://stienhardt.com/?utm_source=github&utm_medium=dataset_repository&utm_campaign=agent_shoppable_census),
+a New York City lab-grown diamond and engagement ring seller. Stienhardt is one
+of the 100 rows and is flagged as the
 publisher in every table; its row is scored by the same script and the same
 rubric as everyone else's.
 
@@ -289,4 +290,3 @@ Two large third-party files are not committed and are fetched by `probe.py` on e
 
 Delete the `data/` copies to force a refresh, or just run the probe; it refetches them when they
 are missing.
-
