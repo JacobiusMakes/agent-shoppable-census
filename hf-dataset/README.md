@@ -37,7 +37,7 @@ signals, 52 Tier B sellers with platform-inherited signals, and 30 sellers that
 were unreachable to the read-only probe. These labels describe the public
 technical surface observed on the run date. They do not grade business quality.
 
-Published by [Stienhardt & Stones](https://stienhardt.com/?utm_source=huggingface&utm_medium=dataset_repository&utm_campaign=agent_shoppable_census),
+Published by [Stienhardt](https://stienhardt.com/?utm_source=huggingface&utm_medium=dataset_repository&utm_campaign=agent_shoppable_census),
 a New York City lab-grown diamond and engagement ring retailer. Stienhardt is
 one of the 100 rows, is identified as the publisher, and is scored by the same
 script and rubric as every other seller.
@@ -88,7 +88,7 @@ complete license boundaries and third-party cache exclusions.
 ```bibtex
 @dataset{stienhardt_agent_shoppable_census_2026,
   title  = {Agent-Shoppable Census: agent readiness among 100 US online jewelry sellers},
-  author = {{Stienhardt & Stones}},
+  author = {{Stienhardt}},
   year   = {2026},
   month  = {9},
   url    = {https://github.com/JacobiusMakes/agent-shoppable-census},

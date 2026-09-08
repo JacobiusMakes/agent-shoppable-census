@@ -8,7 +8,7 @@ abstract: >-
   HTTP evidence, run metadata, methodology, and probe code.
 type: dataset
 authors:
-  - name: "Stienhardt & Stones"
+  - name: "Stienhardt"
     website: "https://stienhardt.com/?utm_source=github&utm_medium=citation_metadata&utm_campaign=agent_shoppable_census"
     city: "New York"
     country: "US"
